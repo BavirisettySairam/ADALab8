@@ -656,3 +656,4 @@ if __name__ == '__main__':
             print("This CLI functionality is a placeholder. The primary experience is the Streamlit UI.")
         except ImportError:
             pass # ignore for cases where argparse is not available
+
