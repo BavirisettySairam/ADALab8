@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+wordcloud
+networkx
+transformers
+bertopic
+gensim
+textblob
